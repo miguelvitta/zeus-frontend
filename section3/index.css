@@ -10,6 +10,18 @@
     background-color: chartreuse;
   }
 
+  .block {
+    display: block;
+  }
+
+  .inline-block {
+    display: inline-block;
+  }
+
+  .w-50 {
+    width: 49%;
+  }
+
   h1, h2, h3 {
     color: red;
   }
