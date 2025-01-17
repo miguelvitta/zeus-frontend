@@ -1,6 +1,13 @@
-  {
+  * {
     font-family: "Outfit", sans-serif;
     background-color: aquamarine;
+  }
+  header {
+    background-color: brown;
+  }
+
+  footer {
+    background-color: chartreuse;
   }
 
   h1, h2, h3 {
